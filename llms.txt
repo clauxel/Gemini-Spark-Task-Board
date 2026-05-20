@@ -1,0 +1,11 @@
+# Gemini Spark Task Board
+
+Gemini Spark Task Board is a SaaS workspace for Gemini Spark task approval board.
+
+Website: https://geminisparktaskboard.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Gemini Spark task approval board
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
